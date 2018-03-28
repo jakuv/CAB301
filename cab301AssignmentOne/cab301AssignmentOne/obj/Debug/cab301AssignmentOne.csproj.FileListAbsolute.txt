@@ -1,0 +1,7 @@
+C:\Users\tprei\source\repos\cab301AssignmentOne\cab301AssignmentOne\bin\Debug\cab301AssignmentOne.exe.config
+C:\Users\tprei\source\repos\cab301AssignmentOne\cab301AssignmentOne\bin\Debug\cab301AssignmentOne.exe
+C:\Users\tprei\source\repos\cab301AssignmentOne\cab301AssignmentOne\bin\Debug\cab301AssignmentOne.pdb
+C:\Users\tprei\source\repos\cab301AssignmentOne\cab301AssignmentOne\obj\Debug\cab301AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\tprei\source\repos\cab301AssignmentOne\cab301AssignmentOne\obj\Debug\cab301AssignmentOne.exe
+C:\Users\tprei\source\repos\cab301AssignmentOne\cab301AssignmentOne\obj\Debug\cab301AssignmentOne.pdb
+C:\Users\tprei\source\repos\cab301AssignmentOne\cab301AssignmentOne\obj\Debug\cab301AssignmentOne.csprojResolveAssemblyReference.cache
